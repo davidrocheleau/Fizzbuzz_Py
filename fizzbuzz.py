@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # This program is a fizzbuzz generator for numbers divisible by 3 and/or 5
-__author__ = "Aditya Mujumdar"
+__author__ = "David Rocheleau"
 
-__email__ = "ammujumd@asu.edu"
+__email__ = "drochele@asu.edu"
 
 def fizzbuzz(start, stop, step):
     stop+=step
